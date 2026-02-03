@@ -12,9 +12,9 @@ To use the One Roster API, follow these steps:
 
 ### 1. Obtain Client Credentials
 
-- First, ensure you have a client set up in the [Visma developer's portal](https://oauth.developers.visma.com/service-registry/home)
-- Within the developer portal, you will be able to find your unique `client_id` and `client_secret`
-- These credentials are essential for authentication
+- First, ensure you have a client set up in the [Visma developer's portal](https://oauth.developers.visma.com/service-registry/home). You can do this by contacting the Flyt Skole Support Team at skole@support.minflyt.no.
+- Support will then be able to provide your unique `client_id` and `client_secret`
+- These credentials must be kept secure since they are essential for your unique authentication.
 
 ### 2. Authentication
 
@@ -120,7 +120,7 @@ The API returns standard HTTP status codes:
 
 ## Support
 
-For additional support and questions, please refer to the Visma developer portal or contact the API support team.
+For additional support and questions, please refer to the Visme Flyt Support or (if you have access) to the Visma developer portal.
 
 ## OneRoster Specification v1.2
 
